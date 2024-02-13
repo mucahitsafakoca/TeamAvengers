@@ -1,3 +1,7 @@
 Harry Potter
 Leon 
-Yüzüklerin efendesi
+Yüzüklerin efendisi
+--------------------
+Zindan Adası
+Inception
+Django Unchained
