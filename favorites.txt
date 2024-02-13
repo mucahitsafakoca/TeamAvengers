@@ -10,6 +10,10 @@ Kuru Fasulye
 Mantı
 Cacık
 
+mantı
+burger
+lazanya
+----------
 Harry Potter
 Leon 
 Yüzüklerin efendisi
@@ -21,4 +25,6 @@ Django Unchained
 Hatefull eight
 Lord of The Rings
 john Wick
+
+
 
