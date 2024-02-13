@@ -1,3 +1,15 @@
+lahmacun
+pide
+kebap
+
+döner
+tavuklu pilav
+kumpir
+
+Kuru Fasulye
+Mantı
+Cacık
+
 Harry Potter
 Leon 
 Yüzüklerin efendisi
@@ -9,3 +21,4 @@ Django Unchained
 Hatefull eight
 Lord of The Rings
 john Wick
+
