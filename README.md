@@ -1,4 +1,4 @@
 # TeamAvengers
 Mehmet Eskici
-\nMucahit Safa KOCA
-\nKaan Alper
+Mucahit Safa KOCA
+Kaan Alper
