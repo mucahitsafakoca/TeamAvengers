@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 lahmacun
 pide
 kebap
@@ -9,3 +10,12 @@ kumpir
 Kuru Fasulye
 Mantı
 Cacık
+=======
+Harry Potter
+Leon 
+Yüzüklerin efendisi
+
+Zindan Adası
+Inception
+Django Unchained
+>>>>>>> 585ee8787eb92682a88289fba7da607311040628
